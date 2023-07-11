@@ -16,7 +16,7 @@ github_username:  jonathanharper3
 fakeemail: jcharper @ umich . edu
 # Build settings
 markdown: kramdown
-officemaploc: "https://goo.gl/maps/daP5GH4SWrdSBjDf7"
+officemaploc: "https://goo.gl/maps/GCuaU6Dqgm3SvsN67"
 officeloc: 1 Main Street, SLC
 include: ["_publications"]
 collections:
