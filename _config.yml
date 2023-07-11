@@ -6,18 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: justine zhang
-description: "justine zhang's website"
+title: jonathan harper
+description: "jonathan harper's website"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "tisjune.github.io" # the base hostname & protocol for your site
-github_username:  tisjune
-twitter_username: tisjune
-#email: jz727@cornell.edu
-fakeemail: tisjune @ umich . edu
+url: "jonathanharper3.github.io" # the base hostname & protocol for your site
+github_username:  jonathanharper3
+#twitter_username: n/a
+#email: jcharper@umich.edu
+fakeemail: jcharper @ umich . edu
 # Build settings
 markdown: kramdown
 officemaploc: "https://goo.gl/maps/daP5GH4SWrdSBjDf7"
-officeloc: 3415 North Quad
+officeloc: 1 Main Street, SLC
 include: ["_publications"]
 collections:
   - publications
