@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "The Berlin Marathon"
+title:  "marathon"
 date:   2023-10-08
-description: My experience running the Berlin Marathon.
+description: trying to find preserve a really good memory.
 categories: blog
 ---
 
 This past month, I ran the Berlin marathon. I had previously experienced a lot of frustration with marathons, and my goal entering the race was to not walk. If this seemed attainable, I figured a time goal of 2:30:00 would be a good day for me, and anything below this would be even better. At the end, I ended up achieving both goals and ran 2:27:44. As only a few weeks have passed, I wanted to write a post to help me remember the experience. There have also been a few marathons where friends have run faster than my time, and I’ve begun to feel a little too envious of their times, so I am hopeful that a write-up will help me feel proud of my accomplishment.
+
+--
 
 Four seconds in, pause for four seconds, four seconds out, pause for four seconds. Repeat until calm.
 
