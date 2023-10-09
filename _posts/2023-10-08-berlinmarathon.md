@@ -8,7 +8,7 @@ categories: blog
 
 This past month, I ran the Berlin marathon. I had previously experienced a lot of frustration with marathons, and my goal entering the race was to not walk. If this seemed attainable, I figured a time goal of 2:30:00 would be a good day for me, and anything below this would be even better. At the end, I ended up achieving both goals and ran 2:27:44. As only a few weeks have passed, I wanted to write a post to help me remember the experience. There have also been a few marathons where friends have run faster than my time, and I’ve begun to feel a little too envious of their times, so I am hopeful that a write-up will help me feel proud of my accomplishment.
 
---
+![berlin_city_skyline](/images/marathon_city.jpg)
 
 Four seconds in, pause for four seconds, four seconds out, pause for four seconds. Repeat until calm.
 
@@ -51,3 +51,5 @@ Alanna asked later that day what my favorite part of the marathon was, and I had
 Since Berlin, I’ve tried to run a little and have been so-so with success. My legs feel awful most of the time, but it’s fall in Utah and there’re a lot of trees to go out and look at. I’m not sure what my training will look like in the upcoming months, especially as winter approaches and my motivation inevitably wanes. However, I’m sure that at some point in the upcoming months, I’ll feel the itch to race again and will sign up for something new before too long. If I keep this blog going, I might even write about it, but who’s really to say.
 
 Bye!
+
+![marathon expo](/images/marathon_expo.jpg)
