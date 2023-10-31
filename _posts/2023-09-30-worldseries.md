@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "world series pitching analysis"
+date:   2023-10-30
+description: could we have predicted paul seward's home run pitch?
+categories: blog
+---
+
 In the bottom of the ninth on October 27, 2023, Paul Sewald had a 0-0 count on Corey Seager, a man on first, a two-run lead, and a 93.6 miles per hour four-seam fastball.  One pitch later, Paul Sewald had a blown save, an energized crowd, and was looking at a Rangers team that would go on to win the first game of the World Series. Corey Seager isn’t a bum – he’s gone for 33 home runs this year, which is tied for the sixteenth most in the majors. He’s also the 2020 World Series MVP. This homer, while huge, shouldn’t have been a surprise at all to anyone watching. But Paul Sewald, who has been an ace for the Diamondbacks this post-season, also didn’t give him any surprises with his first pitch up to the plate.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zxB24tsJxzo?si=9ERCNuu7bPzpyUy5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -20,19 +28,19 @@ Failed attempt:
 
 I really wanted to use unsupervised learning this month to cluster similar pitchers together and see if the data in these clusters could reasonably predict what type of pitch would most likely come next. I used k-means clustering to group these pitchers together, with a higher number of variables informing the clusters. These variables included percentage thrown in each zone, percentage of each pitch, number of pitches, and the release speed mean. Variables could look like this:
 
-Zone 1: .0034
-Zone 2: .0067
-Zone 3: .0042
-…
-Zone 14: .0149
-FF: .3221
-SL: .1275
-CH: .1824
-…
-PO: 0
-CU: 0
-ST: 0
-…
+Zone 1: .0034<br>
+Zone 2: .0067<br>
+Zone 3: .0042<br>
+…<br>
+Zone 14: .0149<br>
+FF: .3221<br>
+SL: .1275<br>
+CH: .1824<br>
+…<br>
+PO: 0<br>
+CU: 0<br>
+ST: 0<br>
+…<br>
 number_of_pitches: 4
 
 I used a silhouette score to grade each cluster and determine which cluster would be best to use and saw that the highest silhouette score came when there were 2 clusters. This score hovered around .50. I ultimately used 5 clusters, which had a silhouette score of .45, but when observing the data visually, it was impossible to really tell what was defining each cluster. I think this is likely due to the higher variable count paired with the lower value add for each variable. I envisioned someone like Paul Sewald being clustered with other two- to three-pitch closers that operated around the edges. However, I got a blob of pitchers that had little similarities when all was said and done.
