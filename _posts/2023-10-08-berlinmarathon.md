@@ -2,7 +2,7 @@
 layout: post
 title:  "marathon"
 date:   2023-10-08
-description: trying to find preserve a really good memory.
+description: trying to preserve a really good memory.
 categories: blog
 ---
 
