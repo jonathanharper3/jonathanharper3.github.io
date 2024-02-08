@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "marathon"
+title:  "berlin marathon"
 date:   2023-10-08
-description: trying to preserve a really good memory.
+description: no stopping, no walking
 categories: blog
 ---
 
