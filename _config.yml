@@ -17,7 +17,7 @@ fakeemail: jcharper @ umich . edu
 # Build settings
 markdown: kramdown
 officemaploc: "https://goo.gl/maps/GCuaU6Dqgm3SvsN67"
-officeloc: 1 Main Street, SLC
+officeloc: SLC, UT, USA
 include: ["_publications"]
 collections:
   - publications
