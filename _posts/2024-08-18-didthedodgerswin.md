@@ -5,7 +5,7 @@ date:   2024-08-18
 description: 
 categories: blog
 ---
-[Here is my website’s link.](http://www.jonathanharper3.github.io/did-the-dodgers-win/)
+[Here is my website’s link.](https://jonathanharper3.github.io/did-the-dodgers-win/)
 
 A few years ago, I had a useless idea that took over my brain for a little while. I wanted to make a website called didthedodgerswin.com that would give you a ‘yes’ or ‘no’ answer as to whether the Dodgers won their most recent baseball game. Never mind the fact that you could type ‘dodgers game’ into Google to retrieve the same information with more details just as quickly. This would cut out the distractions and extra information of the internet.
 
